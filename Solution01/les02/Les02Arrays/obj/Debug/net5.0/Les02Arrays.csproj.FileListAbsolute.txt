@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\bin\Debug\net5.0\Les02Arrays.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\refint\Les02Arrays.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\Les02Arrays.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02Arrays\obj\Debug\net5.0\ref\Les02Arrays.dll

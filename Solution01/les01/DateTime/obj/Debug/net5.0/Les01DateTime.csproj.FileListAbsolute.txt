@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\bin\Debug\net5.0\Les01DateTime.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\refint\Les01DateTime.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\Les01DateTime.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Console3Les1\obj\Debug\net5.0\ref\Les01DateTime.dll

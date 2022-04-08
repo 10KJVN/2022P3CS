@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\bin\Debug\net5.0\Les02VariablesData.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\refint\Les02VariablesData.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\Les02VariablesData.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les02VariablesData\obj\Debug\net5.0\ref\Les02VariablesData.dll
