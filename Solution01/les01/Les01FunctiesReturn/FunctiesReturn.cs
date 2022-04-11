@@ -1,13 +1,19 @@
 ﻿using System;
 
-namespace Les01FunctiesReturn
+namespace les01
 {
-    internal class FunctiesReturn
+    internal class Functies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Mijn naam is Jahvairo.");
+      string result=      Naam();
+
+            Console.WriteLine(result);
+        }
+
+        public static string Naam()
+        {
+            return "Mijn naam is Jahvairo.";
         }
     }
 }

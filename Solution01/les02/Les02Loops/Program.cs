@@ -1,13 +1,6 @@
 ﻿using System;
 
-namespace Les02Loops
+for (int i = 0; i < 101; i++)
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            for (1; > 0 -= 100;) ;
-        }
-    }
+    Console.WriteLine(i.ToString());
 }

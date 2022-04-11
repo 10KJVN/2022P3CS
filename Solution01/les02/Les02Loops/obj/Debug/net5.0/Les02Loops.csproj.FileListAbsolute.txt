@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\bin\Debug\net5.0\Les02Loops.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\refint\Les02Loops.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\Les02Loops.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\les02\Les02Loops\obj\Debug\net5.0\ref\Les02Loops.dll

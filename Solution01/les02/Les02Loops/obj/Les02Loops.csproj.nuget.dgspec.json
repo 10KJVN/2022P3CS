@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les02Loops\\Les02Loops.csproj": {}
+    "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les02\\Les02Loops\\Les02Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les02Loops\\Les02Loops.csproj": {
+    "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les02\\Les02Loops\\Les02Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les02Loops\\Les02Loops.csproj",
+        "projectUniqueName": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les02\\Les02Loops\\Les02Loops.csproj",
         "projectName": "Les02Loops",
-        "projectPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les02Loops\\Les02Loops.csproj",
+        "projectPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les02\\Les02Loops\\Les02Loops.csproj",
         "packagesPath": "C:\\Users\\Jahva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les02Loops\\obj\\",
+        "outputPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les02\\Les02Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jahva\\AppData\\Roaming\\NuGet\\NuGet.Config",

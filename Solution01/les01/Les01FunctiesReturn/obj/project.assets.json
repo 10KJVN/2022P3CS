@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les01FunctiesReturn\\Les01FunctiesReturn.csproj",
+      "projectUniqueName": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les01\\Les01FunctiesReturn\\Les01FunctiesReturn.csproj",
       "projectName": "Les01FunctiesReturn",
-      "projectPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les01FunctiesReturn\\Les01FunctiesReturn.csproj",
+      "projectPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les01\\Les01FunctiesReturn\\Les01FunctiesReturn.csproj",
       "packagesPath": "C:\\Users\\Jahva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\Les01FunctiesReturn\\obj\\",
+      "outputPath": "C:\\Users\\Jahva\\MA\\f1m3\\F2M3CS\\Solution01\\les01\\Les01FunctiesReturn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jahva\\AppData\\Roaming\\NuGet\\NuGet.Config",

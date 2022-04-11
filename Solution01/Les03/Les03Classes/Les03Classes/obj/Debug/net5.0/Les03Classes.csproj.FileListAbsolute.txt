@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\bin\Debug\net5.0\Les03Classes.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\refint\Les03Classes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\Les03Classes.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03Classes\Les03Classes\obj\Debug\net5.0\ref\Les03Classes.dll
