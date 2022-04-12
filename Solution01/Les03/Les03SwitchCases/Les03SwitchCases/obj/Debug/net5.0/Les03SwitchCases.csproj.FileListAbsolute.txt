@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\bin\Debug\net5.0\Les03SwitchCases.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\refint\Les03SwitchCases.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\Les03SwitchCases.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les03\Les03SwitchCases\Les03SwitchCases\obj\Debug\net5.0\ref\Les03SwitchCases.dll

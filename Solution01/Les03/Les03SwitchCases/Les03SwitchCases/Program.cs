@@ -1,12 +1,25 @@
 ﻿using System;
 
-namespace Les03SwitchCases
+int myInt = 0;
+
+switch (myInt)
 {
-    internal class Program
-    {
-        static void Main(string[] args)
+    case 0:
+        Console.WriteLine("hallo, dit is case 0");
+        break;
+
+    case 1:
+        if (myInt == 1)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Dit is case 1");
         }
-    }
+        else myInt = default(int);
+        {
+            Console.WriteLine(myInt);
+        }
+        break;
+
+    default:
+        Console.WriteLine("hallo, dit is de default case");
+        break;
 }
