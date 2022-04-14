@@ -1,14 +1,23 @@
 ﻿using System;
 
-namespace Les05GettersEnSetters
+namespace Les5GetandSet
 {
-    class Program
+    internal class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
-            var dog = new dog("MyDawg");
-            dog.pet();
-            var age = dog.getAge();
+
         }
+
     }
+    class inter
+    {
+        private string dawg;
+        internal void SetAap(string dawg)
+        {
+            this.dawg = dawg;
+        }
+
+    }
+
 }
