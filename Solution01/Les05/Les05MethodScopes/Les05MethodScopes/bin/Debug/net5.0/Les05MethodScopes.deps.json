@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Les05MethodScopes/1.0.0": {
+        "runtime": {
+          "Les05MethodScopes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les05MethodScopes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

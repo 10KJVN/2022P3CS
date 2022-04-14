@@ -1,0 +1,16 @@
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.csproj.AssemblyReference.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.AssemblyInfoInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.AssemblyInfo.cs
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.csproj.CoreCompileInputs.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.exe
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.deps.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.runtimeconfig.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.runtimeconfig.dev.json
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\bin\Debug\net5.0\Les05MethodScopes.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\refint\Les05MethodScopes.dll
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.pdb
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\Les05MethodScopes.genruntimeconfig.cache
+C:\Users\Jahva\MA\f1m3\F2M3CS\Solution01\Les05\Les05MethodScopes\Les05MethodScopes\obj\Debug\net5.0\ref\Les05MethodScopes.dll
