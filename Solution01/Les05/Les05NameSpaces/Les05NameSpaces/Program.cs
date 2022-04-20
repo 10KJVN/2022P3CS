@@ -1,25 +1,27 @@
 ﻿using System;
-using Les05NameSpaces;
+using gangshit;
 
 namespace Les05NameSpaces
 {
-    class Program
+    internal class Program
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Test functie");
+            Chiraq Sosa = new ();
+            Sosa.EmptyClip();
         }
     }
+
 }
 
-namespace Les05NameSpaces2
+namespace gangshit
 {
-    class ProgramV2
+    public class Chiraq
     {
-        public void
-            {
-              //Geen idee hoe dit werkt, deze haal ik in
-            }
-            
+        public void EmptyClip()
+        {
+            string ChiefSosa = "Everybody love Sosa";
+            Console.WriteLine(ChiefSosa);
+        }
     }
 }
