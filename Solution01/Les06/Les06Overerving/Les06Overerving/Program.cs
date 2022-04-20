@@ -7,7 +7,6 @@ namespace Les06Overerving
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Deze en Namespaces haal ik in. gaat niet lukken binnen de deadline.");
         }
     }
 }
