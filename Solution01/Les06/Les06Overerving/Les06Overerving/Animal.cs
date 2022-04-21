@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Les06Overerving
 {
-    internal class Animaul
+    internal class Animal
     {
-        public void Feed()
+        public void Feed() 
         {
-           protected int hunger = 100;
-           
+         
+            
         }
     }
 }

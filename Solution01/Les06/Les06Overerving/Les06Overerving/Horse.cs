@@ -8,5 +8,9 @@ namespace Les06Overerving
 {
     internal class Horse
     {
+        public void Feed()
+        {
+
+        }
     }
 }

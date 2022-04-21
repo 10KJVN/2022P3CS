@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace Les06Overerving
+namespace overerving
 {
-    internal class Program
+    public class Animal
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        string name = "Animal";
+        int age = 2;
+    }
+
+    public class Horse : Animal
+    {
+        int legs = 7;
     }
 }
