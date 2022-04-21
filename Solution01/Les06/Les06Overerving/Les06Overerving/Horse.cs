@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Les06Overerving
 {
-    internal class Horse
+    internal class Horse : Animal
     {
-        public void Feed()
-        {
 
-        }
     }
 }
